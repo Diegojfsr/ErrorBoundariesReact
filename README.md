@@ -1,5 +1,3 @@
-# Projeto_lista_tarefas
-Desafio de projeto: Lista de tarefas em Javascript. Adicionar tarefa, editar e remover.
 
 <h1>  Repositório de projetos e códigos JavaScript. </h1>
 
